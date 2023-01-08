@@ -1,7 +1,7 @@
 # My Full-Stack Engineer Roadmap
 
 ### Web Development Foundations
-- [ ] Welcome to the Full-Stack Engineer Path
+- [x] Welcome to the Full-Stack Engineer Path
 - [ ] Fundamentals of HTML
 - [ ] Fundamentals of CSS
 - [ ] Developing Websites Locally
