@@ -3,7 +3,7 @@
 ### Web Development Foundations
 - [x] Welcome to the Full-Stack Engineer Path
 - [x] Fundamentals of HTML
-- [ ] Fundamentals of CSS
+- [x] Fundamentals of CSS
 - [ ] Developing Websites Locally
 - [ ] Deploying Websites
 - [ ] Improved Styling with CSS
