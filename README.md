@@ -4,7 +4,7 @@
 - [x] Welcome to the Full-Stack Engineer Path
 - [x] Fundamentals of HTML
 - [x] Fundamentals of CSS
-- [ ] Developing Websites Locally
+- [x] Developing Websites Locally
 - [ ] Deploying Websites
 - [ ] Improved Styling with CSS
 - [ ] Making a Website Responsive
