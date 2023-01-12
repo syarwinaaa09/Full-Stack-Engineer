@@ -5,7 +5,7 @@
 - [x] Fundamentals of HTML
 - [x] Fundamentals of CSS
 - [x] Developing Websites Locally
-- [ ] Deploying Websites
+- [x] Deploying Websites
 - [ ] Improved Styling with CSS
 - [ ] Making a Website Responsive
 
