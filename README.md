@@ -6,7 +6,7 @@
 - [x] Fundamentals of CSS
 - [x] Developing Websites Locally
 - [x] Deploying Websites
-- [ ] Improved Styling with CSS
+- [x] Improved Styling with CSS
 - [ ] Making a Website Responsive
 
 ### Building Interactive Websites
