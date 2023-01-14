@@ -7,7 +7,7 @@
 - [x] Developing Websites Locally
 - [x] Deploying Websites
 - [x] Improved Styling with CSS
-- [ ] Making a Website Responsive
+- [x] Making a Website Responsive
 
 ### Building Interactive Websites
 - [ ] JavaScript Syntax, Part I
