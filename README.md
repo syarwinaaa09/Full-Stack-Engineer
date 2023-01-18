@@ -10,7 +10,7 @@
 - [x] Making a Website Responsive
 
 ### Building Interactive Websites
-- [ ] JavaScript Syntax, Part I
+- [x] JavaScript Syntax, Part I
 - [ ] JavaScript Syntax, Part II
 - [ ] Git and GitHub, Part I
 - [ ] Portfolio Project: JavaScript Syntax
