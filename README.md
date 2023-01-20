@@ -12,7 +12,7 @@
 ### Building Interactive Websites
 - [x] JavaScript Syntax, Part I
 - [x] JavaScript Syntax, Part II
-- [ ] Git and GitHub, Part I
+- [x] Git and GitHub, Part I
 - [ ] Portfolio Project: JavaScript Syntax
 - [ ] Building Interactive Websites
 - [ ] Making A Website Accessible
