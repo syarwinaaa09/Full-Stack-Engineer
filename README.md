@@ -13,7 +13,7 @@
 - [x] JavaScript Syntax, Part I
 - [x] JavaScript Syntax, Part II
 - [x] Git and GitHub, Part I
-- [ ] Portfolio Project: JavaScript Syntax
+- [x] Portfolio Project: JavaScript Syntax
 - [ ] Building Interactive Websites
 - [ ] Making A Website Accessible
 - [ ] Portfolio Project: Personal Portfolio Websites
