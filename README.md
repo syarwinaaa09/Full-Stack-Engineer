@@ -15,7 +15,7 @@
 - [x] Git and GitHub, Part I
 - [x] Portfolio Project: JavaScript Syntax
 - [x] Building Interactive Websites
-- [ ] Making A Website Accessible
+- [x] Making A Website Accessible
 - [ ] Portfolio Project: Personal Portfolio Websites
 
 ### Front-End Development
