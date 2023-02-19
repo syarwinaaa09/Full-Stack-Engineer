@@ -14,7 +14,7 @@
 - [x] JavaScript Syntax, Part II
 - [x] Git and GitHub, Part I
 - [x] Portfolio Project: JavaScript Syntax
-- [ ] Building Interactive Websites
+- [x] Building Interactive Websites
 - [ ] Making A Website Accessible
 - [ ] Portfolio Project: Personal Portfolio Websites
 
