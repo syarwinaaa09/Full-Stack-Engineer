@@ -16,7 +16,7 @@
 - [x] Portfolio Project: JavaScript Syntax
 - [x] Building Interactive Websites
 - [x] Making A Website Accessible
-- [ ] Portfolio Project: Personal Portfolio Websites
+- [x] Portfolio Project: Personal Portfolio Website
 
 ### Front-End Development
 - [ ] JavaScript Syntax, Part III
