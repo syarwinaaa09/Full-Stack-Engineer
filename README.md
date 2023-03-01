@@ -19,7 +19,7 @@
 - [x] Portfolio Project: Personal Portfolio Website
 
 ### Front-End Development
-- [ ] JavaScript Syntax, Part III
+- [x] JavaScript Syntax, Part III
 - [ ] JavaScript Testing
 - [ ] Async JavaScript and HTTP Requests
 - [ ] Web Apps
