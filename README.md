@@ -20,7 +20,7 @@
 
 ### Front-End Development
 - [x] JavaScript Syntax, Part III
-- [ ] JavaScript Testing
+- [x] JavaScript Testing
 - [ ] Async JavaScript and HTTP Requests
 - [ ] Web Apps
 - [ ] React, Part I
