@@ -21,7 +21,7 @@
 ### Front-End Development
 - [x] JavaScript Syntax, Part III
 - [x] JavaScript Testing
-- [ ] Async JavaScript and HTTP Requests
+- [x] Async JavaScript and HTTP Requests
 - [ ] Web Apps
 - [ ] React, Part I
 - [ ] React, Part II
