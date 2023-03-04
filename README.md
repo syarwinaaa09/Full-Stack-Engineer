@@ -22,7 +22,7 @@
 - [x] JavaScript Syntax, Part III
 - [x] JavaScript Testing
 - [x] Async JavaScript and HTTP Requests
-- [ ] Web Apps
+- [x] Web Apps
 - [ ] React, Part I
 - [ ] React, Part II
 - [ ] Redux
