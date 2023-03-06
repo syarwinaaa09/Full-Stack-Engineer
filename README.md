@@ -23,7 +23,7 @@
 - [x] JavaScript Testing
 - [x] Async JavaScript and HTTP Requests
 - [x] Web Apps
-- [ ] React, Part I
+- [x] React, Part I
 - [ ] React, Part II
 - [ ] Redux
 - [ ] Git and GitHub, Part II
