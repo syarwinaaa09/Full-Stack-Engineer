@@ -24,7 +24,7 @@
 - [x] Async JavaScript and HTTP Requests
 - [x] Web Apps
 - [x] React, Part I
-- [ ] React, Part II
+- [x] React, Part II
 - [ ] Redux
 - [ ] Git and GitHub, Part II
 - [ ] Portfolio Project: Reddit Client
