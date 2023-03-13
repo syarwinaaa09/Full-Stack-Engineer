@@ -30,7 +30,7 @@
 - [ ] Portfolio Project: Reddit Client
 
 ### Back-End Development
-- [ ] Introduction to Back-End
+- [x] Introduction to Back-End
 - [ ] Build a Back-end with Express.js
 - [ ] User Authentication & Authorization
 - [ ] Back-End and Feature Testing
