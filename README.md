@@ -27,7 +27,7 @@
 - [x] React, Part II
 - [x] Redux
 - [x] Git and GitHub, Part II
-- [ ] Portfolio Project: Reddit Client
+- [x] Portfolio Project: Reddit Client
 
 ### Back-End Development
 - [x] Introduction to Back-End
